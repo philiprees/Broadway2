@@ -4,7 +4,7 @@ body {
     background-color: white;
   }
 
-.classic { /* Header and divide */
+.classic { /* Header and divide.  */
     background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
     background-repeat:no-repeat;
     background-position: center;
